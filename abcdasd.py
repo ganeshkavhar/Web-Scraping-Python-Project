@@ -1,4 +1,4 @@
-__author__ = 'mittr'
+__author__ = 'ganeshkavhar'
 
 from urllib.request import urlopen as ureq
 from bs4 import BeautifulSoup as Soup
